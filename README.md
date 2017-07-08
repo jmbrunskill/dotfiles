@@ -1,5 +1,6 @@
-# dotfiles
-James Dot Files
+# James Dot Files
+
+I'm just starting out on my dotfiles journey, probably nothing you want to copy here just yet.
 
 This dotfiles approach is based on https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo/
 
