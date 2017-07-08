@@ -1,0 +1,22 @@
+{
+    "window.zoomLevel": 1,
+    "workbench.colorTheme": "Atom One Light",
+
+  // An array with rgba strings which are used as colors.
+  "indentRainbow.colors": [
+    "rgba(32,64,32,0.3)",
+    "rgba(64,32,64,0.3)",
+    "rgba(16,48,48,0.3)",
+    "rgba(128,32,32,0.3)"
+],
+"workbench.activityBar.visible": false,
+"workbench.welcome.enabled": false,
+
+"editor.minimap.enabled": false,
+"[python]": {
+  
+    "editor.renderWhitespace": "all"
+
+    },
+    "editor.renderWhitespace": "all"
+}
