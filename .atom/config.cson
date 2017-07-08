@@ -1,0 +1,39 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "addaf7a4-824f-41b8-ae69-4cb7af3d7849"
+  "autocomplete-python":
+    useKite: false
+  core:
+    projectHome: "/Users/james/code"
+    telemetryConsent: "limited"
+    themes: [
+      "atom-light-ui"
+      "atom-light-syntax"
+    ]
+  editor:
+    invisibles: {}
+    scrollPastEnd: true
+    showInvisibles: true
+  "exception-reporting":
+    userId: "cb93d6bc-e4c9-7f71-e77f-55a110de0af3"
+  linter:
+    disabledProviders: [
+      "write-good"
+    ]
+  "linter-ui-default": {}
+  pigments:
+    markerType: "native-underline"
+  "tree-view":
+    autoReveal: true
+    hideIgnoredNames: true
+    hideVcsIgnoredFiles: true
+  "vim-mode": {}
+  wakatime:
+    apikey: "Saved in your ~/.wakatime.cfg file"
+  "wakatime-hidden":
+    lastInit: 1492639884
+  welcome:
+    showOnStartup: false
+  whitespace:
+    removeTrailingWhitespace: false
